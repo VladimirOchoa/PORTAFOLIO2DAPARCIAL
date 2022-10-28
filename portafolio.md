@@ -97,7 +97,7 @@ Se necesita utilizar el símbolo de proceso para asignar la variable de s=0 y c=
 
 #### 1.4 Entradas.
 No tiene ninguna entrada.
-#### 1.5 Salidas.
+#### 1.5 Salidasl.
 55.
 #### 1.6 Codigo.
 ```dart
