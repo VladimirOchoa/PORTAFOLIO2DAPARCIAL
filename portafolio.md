@@ -878,11 +878,11 @@ void main() {
 CAPTURE N NUMEROS  EN EL RANGO [LI,LS] DEONDE:  LI= LIMITE INFERIOR Y LS= LIMITE SUPERIOR, PARA LS>LI Y LI>0. 
 OBTENGA: 
 
-*CANTIDAD DE NUMEOS PARES Y SU PROMEDIO.
+CANTIDAD DE NUMEOS PARES Y SU PROMEDIO.
 
-*CANTIDAD DE NUMEROS IMPARES Y SU PROMEDIO.
+CANTIDAD DE NUMEROS IMPARES Y SU PROMEDIO.
 
-*¿QUE PROMEDIO ES MAYOR? (FOR)
+¿QUE PROMEDIO ES MAYOR? (FOR)
 #### 1.1 Analisis.
 Capturar una cantidad de numeros dentro de un rango establecido, para despues calcular la cantidad de numeros pares y impares para posteriormente calcular su promedio por separado y decir cual promedio es mayor. 
 
