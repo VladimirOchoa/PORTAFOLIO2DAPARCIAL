@@ -5,4 +5,3 @@
 ### Fundamentos de Programación
 ### Estudiante: Adrián Vladimir Ochoa Ramiréz
 ### Profesor: Dr. Walter Alexander Mata López
-k
